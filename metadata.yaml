@@ -1,5 +1,5 @@
 _repo: Zurk_62043
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Morey, Leo
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1965
     gutenberg_agent_id: '32299'
     url: http://www.gutenberg.org/2009/agents/32299
+covers:
+- cover_type: archival
+  image_path: 62043-h/images/cover.jpg
 creator:
   author:
     agent_name: Lewis, Richard O.
     gutenberg_agent_id: '34303'
     url: http://www.gutenberg.org/2009/agents/34303
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62043#Zurk
 gutenberg_issued: '2020-05-06'
 gutenberg_type: Text
 identifiers:
